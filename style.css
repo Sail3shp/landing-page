@@ -1,0 +1,143 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.container{
+    background-color: #1F2937;
+}
+header{
+    display:flex;
+    font-style:Roboto;
+    background-color: #1F2937;
+
+}
+.logo{
+    font-size:24px;
+    color: #F9FaF8;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+.navlinks{
+    margin-left:650px;
+    margin-top: 20px;
+}
+ul, a{
+    text-decoration: none;
+    list-style-type: none;
+    margin-left: 20px;
+    font-size:18px;
+    color: #E5E7EB;
+}
+li{
+    display: inline;
+    
+}
+.sheader{
+    background-color: #1F2937;
+    margin-top:30px;
+    height:300px;
+}
+.main{
+    font-size: 48px;
+    font-weight:900;
+    color:#f9faf8;
+    margin-left:20px;
+    
+}
+.smain{
+    margin-left:20px;
+    color:#E5E7EB;
+}
+button{
+    background-color:#3882f6;
+    border-radius: 3px;
+    color: white;
+    margin-left:20px;
+}
+.img1{
+    background-color: grey;
+    height:200px;
+    width:400px;
+    float:right;
+    margin-right:200px;
+}
+#info{
+    font-size:36px;
+    font-weight: 900;
+    text-align: center;
+    margin-top:20px;
+}
+.cards{
+    display:flex;
+    justify-content: space-evenly;
+    margin-left:300px;
+    margin-right:300px;
+}
+.card{
+    height: 130px; 
+    width:130px;
+    border-radius: 10px;
+    text-align: center;
+    border:5px solid #3882f6;
+    margin-top:20px;
+    
+}
+.img{
+    height:100%;
+    width:100%;
+    background: url('https://images.pexels.com/photos/2469122/pexels-photo-2469122.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940');
+    background-size: cover;
+}
+#container3{
+    background-color: #e5e7eb;
+    height: 300px;
+    width:100%;
+    margin-top:50px;
+}
+#quote{
+    font-size: 36px;
+    color:#1f2937;
+    font-style: italic;
+    margin: 20px 300px 50px 340px;
+    padding-top:67px;
+
+}
+#author{
+    font-weight: bold;
+    margin-left:400px;
+    margin-bottom:40px;
+}
+.container4{
+    height:250px;
+    width:100%;
+    background-color: white;
+}
+.dialog{
+    background-color: #3882f6;
+    height:100px;
+    border-radius: 5px;
+    color:white;
+    width:800px;
+    margin-left:300px;
+    margin-top:100px;
+}
+.textbox{
+    margin-left:70px;
+    padding-top:20px;
+}
+#button2{
+    border:1px solid white;
+    cursor:pointer;
+    padding:10px 10px;
+    margin-left:350px;
+    text-align:center;
+}
+footer{
+    background-color: #1F2937;
+    color:white;
+    height:70px;
+}
+#copy{
+    margin-left:600px;
+    padding-top:20px;
+}
